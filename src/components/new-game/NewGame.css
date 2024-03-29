@@ -1,0 +1,13 @@
+.newgamebtn{
+  height: 60px;
+  width: 180px;
+  background-color: #915733;
+  color: white;
+  border-radius: 6px;
+
+}
+.newgamebtn:hover{
+  background: var(--correct);
+  color: white;
+  border-radius: 6px;
+}
